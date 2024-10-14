@@ -35,7 +35,7 @@ Sprint | Previsão | Status| Histórico|
 # Equipe
 
 <p align="center">
- <img src="https://github.com/Allyssu/API-Gestao-de-Estoque/blob/main/Sprint%201/imagem/sprint%201.png" width="100%"/>
+ <img src="‪C:\Users\Fatec\Desktop\grupo.jpg" width="100%"/>
 </p>
 
 # Objetivo do Projeto
