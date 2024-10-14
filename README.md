@@ -44,7 +44,7 @@ O objetivo primordial da nossa consultoria é aprimorar significativamente a efi
 # Funcionalidades e Demonstrações das Sprints
 
 ## Sprint 1
-[![SPRINT 1](https://img.youtube.com/vi/4TxZWcmxWJk/0.jpg)](https://youtu.be/4TxZWcmxWJk)
+[![SPRINT 1]](‪https://www.youtube.com/watch?v=Zpubl9HV2X0)
 
 ## Sprint 2
 [![SPRINT 1](https://img.youtube.com/vi/VPOv29DwrMc/0.jpg)](https://youtu.be/VPOv29DwrMc)
