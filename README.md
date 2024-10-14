@@ -12,7 +12,7 @@ Sprint | Previsão | Status| Histórico|
 |Kick Off | 02/09/2024 | concluido| 
 |01 | 30/09/2024 | concluido | 
 |02|  21/10/2024| em andamento |
-|03| 26/11/2023 | em andamento |
+|03| 26/11/2024 | em andamento |
 
 
 # Micro Certificações
