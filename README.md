@@ -6,8 +6,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 * 
 # Projeto (API) 
-Este semestre estamos prestando consultoria ao Centro de Competencia em Manufatura, um laboratório da Divisão de Engenharia Mecânica do ITA que atua em projetos com foco em tecnologias de manufatura. 
-
+Este semestre realizaremos uma esposição do projeto de intervenção na empresa Freudenberg .
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 02/09/2024 | concluido| 
