@@ -20,13 +20,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Equipe
-Allysson Santos
-Agar Grazielle
-Carolina Alana
-Guilherme Zuin
-Jairo Ribeiro 
-Maria Eduarda Alves
-Thais Eloane
+Allysson Santos, Agar Grazielle, Carolina Alana, Guilherme Zuin, Jairo Ribeiro, Maria Eduarda Alves e Thais Eloane.
 
 # Objetivo do Projeto
 
