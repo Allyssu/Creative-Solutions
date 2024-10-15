@@ -15,7 +15,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Autores](#autores)
 
 # Projeto (API) 
-Este semestre realizaremos uma esposição do projeto de intervenção na empresa Freudenberg.
+Este semestre realizaremos uma exposição do projeto de intervenção na empresa Freudenberg.
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 02/09/2024 | concluido| 
