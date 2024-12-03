@@ -18,15 +18,15 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 Este semestre realizaremos uma exposição do projeto de intervenção na empresa Freudenberg.
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 02/09/2024 | concluido| 
-|01 | 30/09/2024 | concluido | 
-|02|  21/10/2024| concluido |
-|03| 26/11/2024 | concluido |
+|Kick Off | 02/09/2024 | concluido| [Ver Relatório](https://github.com/Allyssu/Creative-Solutions/blob/main/ApresentaA7A3o1%20(1).pptx) |
+|01 | 30/09/2024 | concluido | [Ver Relatório](https://github.com/Allyssu/Creative-Solutions/blob/main/ApresentaA7A3o1%20(1).pptx)|
+|02|  21/10/2024| concluido | [Ver Relatório](https://github.com/Allyssu/Creative-Solutions/blob/main/sprint%202.pptx) |
+|03| 26/11/2024 | concluido | [Ver Relatório](https://github.com/Allyssu/Creative-Solutions/blob/main/SPRINT%203-1.pptx) |
 
 
 # Micro Certificações
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow" width="30%"/>
+ <img src="https://img.shields.io/badge/STATUS-CONCLUIDO-green" width="30%"/>
 </p>
 
 # Equipe
@@ -73,12 +73,16 @@ Encorajamos a integração de novas tecnologias de apoio, aproveitando as oportu
 ## Cronograma
 Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá é possivel encontar as datas das atividades, o responsavel por cada atividade, o estágio em que cada atividade se encontra e a qual sprint cada atividade pertence.
 
-
-
 ## Backlog do produto
-
+<p align="center">
+ <img src="https://github.com/Allyssu/Creative-Solutions/blob/main/back.png" width="100%"/>
+</p>
 
 ## Burndown
+<p align="center">
+ <img src="https://github.com/Allyssu/Creative-Solutions/blob/main/brundown.png" width="100%"/>
+</p>
+
 
 ## Sprint 1 
 - [x] Visita tecnica
@@ -141,4 +145,4 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 | Scrum Team | Jairo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 | Scrum Team | Carolina | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joaotavio505)|
 | Scrum Team | Maria Eduarda | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
-| Scrum Team | Thais Eloane | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]
+| Scrum Team | Thais Eloane | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]()  [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
