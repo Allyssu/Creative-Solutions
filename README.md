@@ -20,13 +20,13 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 02/09/2024 | concluido| 
 |01 | 30/09/2024 | concluido | 
-|02|  21/10/2024| em andamento |
-|03| 26/11/2024 | em andamento |
+|02|  21/10/2024| concluido |
+|03| 26/11/2024 | concluido |
 
 
 # Micro Certificações
 <p align="center">
- <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow"/>
+ <img src="https://img.shields.io/badge/STATUS-EM_PROGRESSO-yellow" width="30%"/>
 </p>
 
 # Equipe
@@ -43,17 +43,27 @@ Nosso objetivo geral é auxiliar na otmização e diminuar o disperdicio de mate
 [![SPRINT 1](https://img.youtube.com/vi/Zpubl9HV2X0/0.jpg)](https://youtu.be/Zpubl9HV2X0)
 
 ## Sprint 2
-
+[![SPRINT 1](https://img.youtube.com/vi/FoAAtLZO904/0.jpg)](https://youtu.be/FoAAtLZO904)
 
 ## Sprint 3
-
-
+[![SPRINT 1](https://img.youtube.com/vi/QSdphkCr0z8/0.jpg)](https://youtu.be/QSdphkCr0z8)
 
 ## Tecnologias Utilizadas
+
 ### Produto 
+ - Sprint 1
+   - Otimização de cortes
+ - Sprint 2
+   - Kanban
+ - Sprint 3
+   - Nova proposta
+   - Dimensões
 
 ### Tecnológias Específicas/Apoio
-
+- PowerPoint
+- Excel
+- Github
+- Sketchup
 
 ### Mindset Digital
 Encorajamos a integração de novas tecnologias de apoio, aproveitando as oportunidades digitais que o momento proporciona. Desenvolvendo tambem a capacidade de ser proativo e criativo, para buscar soluções inovadoras aos desafios apresentadas.
@@ -77,9 +87,17 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 - [x] Metodo KT
 
 ## Sprint 2 
-
+- [x] Lincença do software
+- [x] Corte no software
+- [x] Método kanban
+- [x] Rack para estoque
+- [x] Orçamento
       
 ## Sprint 3 
+- [x] Nova ferramenta
+- [x] Benefícios
+- [x] Aplicativo mobile
+- [x] Dimensionamento do método
 
 # Competências desenvolvidas
 
@@ -117,10 +135,10 @@ Ao clicar você será redirecionado ao cronograma detalhado desse projeto, lá �
 # Autores
 | Função | Nome |  LinkedIn & GitHub |
 | - | - | - |
-|Product Owner| Allysson Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasMarques3)|
-|Scrum Master| Guilherme  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allyssonsaantos) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Allyssu/)|
+|Product Owner| Allysson Santos | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/allyssonsaantos) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Allyssu/)|
+|Scrum Master| Guilherme  | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 | Scrum Team | Agar Grazielle | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/agar-prado-3274b71bb) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Agar-Grazielle)|
-| Scrum Team | Jairo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joaotavio505)|
+| Scrum Team | Jairo | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 | Scrum Team | Carolina | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joaotavio505)|
-| Scrum Team | Maria Eduarda | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/joaotavio505)|
+| Scrum Team | Maria Eduarda | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]()|
 | Scrum Team | Thais Eloane | [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]() [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)]
